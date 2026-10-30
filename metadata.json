@@ -1,0 +1,6 @@
+{
+  "name": "Angoepo Rewards",
+  "description": "Plataforma profissional de recompensas digitais em Kwanza (AOA) para Angola. Ganhe Kz assistindo a vídeos, ouvindo músicas licenciadas, partilhando conteúdos e completando tarefas com levantamentos via Multicaixa Express.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
